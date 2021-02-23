@@ -35,7 +35,7 @@ blank = null;
 let quater = .25, dime = 0.10, nickel = 0.05, penny = 0.01;  
 
 // 2B
-console.log(quater,dime,nickel,penny);
+console.log(quater, dime, nickel, penny);
 
 // 3B
 let letters = "qwertyuiop"
@@ -43,4 +43,5 @@ let letters = "qwertyuiop"
 // 4B
 
 
-console.log(letters[9]);
+console.log(letters[ letters.length - 1]);
+// console.log(letters[9]);
